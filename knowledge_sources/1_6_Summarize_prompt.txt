@@ -1,0 +1,3 @@
+Use this prompt after the first prompt
+
+Summarize the results in bullet points, excluding any mention of astrological combinations or technical terms. Provide a comprehensive and detailed list covering all the points available in the previous results, focusing only on the outcomes, events, and insights derived from the analysis.

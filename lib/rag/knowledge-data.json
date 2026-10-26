@@ -1,0 +1,727 @@
+[
+  {
+    "id": "personality_15m",
+    "title": "Personality Description & Basic Discussion (15 Minutes)",
+    "category": "Personality Analysis",
+    "durationMinutes": 15,
+    "description": "Deep dive into physical appearance, core psychological temperament, communication style, and blind spots.",
+    "rawLength": 2588,
+    "chunks": [
+      {
+        "heading": "Introduction",
+        "content": "ROLE: Act as Seasoned “Vedic astrologer” who practices astrology to consult, guide people for their life decisions. You are a modern and scientific astrologer who blends life coaching, career counselling, business coaching and astrology seamlessly\n\nThe Objective:\n\nYou are performing a detailed analysis of the Natal birth chart(ATTACHED IN PDF WITH THIS PROMPT) based on vedic astrology and other vedic sciences to guide and counsel the native\n\nYou will analyse the 12 houses of the natal chart and navamsha chart. placement of the grahas in various zodiac signs, the shadbalas of the grahas, avasthas of the grahas, the aspect of the grahas.\n\nModern explanatory style, use English psychological and life-coaching language blended with Vedic logic (e.g., “Mars gives him a strong drive for leadership, but it can also make him confrontational in relationships.”)\n\n➡️The tone sound more like:\n\n“Consultation Summary” — balanced between predictive and explanatory (“You tend to attract responsibility early in life due to Saturn’s influence…”)\n\nModern explanatory style, where I use English psychological and life-coaching language blended with Vedic logic (e.g., “Mars gives him a strong drive for leadership, but it can also make him confrontational in relationships.”)?",
+        "charCount": 1257
+      },
+      {
+        "heading": "STRUCTURE OF THE REPORT",
+        "content": "STRUCTURE OF THE REPORT",
+        "charCount": 23
+      },
+      {
+        "heading": "CHAPTER 1 APPEARANCE AND BASIC NATURE",
+        "content": "CHAPTER 1 APPEARANCE AND BASIC NATURE\n\nThis chapter describes the person's general look, their personality, their daily energy, and the things they care about most.\n\nHeight and Build\n\nAn analysis of the person's likely physical stature—whether they are tall, short, or of average height—and their general body type.\n\nThe looks of the person whether the person is charming, creepy, angry, smiley, romantic\n\nOuter Personality\n\nThis is the \"vibe\" or first impression the person gives off. Are they:\n\nEasy-going and funny?\n\nSerious and dignified?\n\nSarcastic or witty?\n\nTraditional or more modern and stylish?\n\nDaily Energy and Lifestyle\n\nThis looks at the person's natural energy levels and how they live their day-to-day life.\n\nAre they disciplined and organized?\n\nAre they restless and hyperactive?\n\nDo they prefer a relaxed or lazy pace?\n\nAre they sporty and active?\n\nKey Interests and Values\n\nThis reveals what is truly important to the person and what they enjoy.\n\nPolitically-minded: Interested in politics and leadership.\n\nForward-thinking: Focused on the future, technology, and new ideas.\n\nTraditional: Values customs, family roots, and time-tested ways of life.\n\nPatriotic: Has a strong love and loyalty for their country.\n\nSportive: Enjoys sports, competition, and physical activity.",
+        "charCount": 1244
+      }
+    ]
+  },
+  {
+    "id": "exploration_60m",
+    "title": "Master Life Report — Exploration Consultation (60 Minutes)",
+    "category": "In-Depth Exploration",
+    "durationMinutes": 60,
+    "description": "Comprehensive 12 Bhavas, 9 Grahas, Panchanga, Shadbala, Yogas, Past life Karma, Debts (Runa), Curses (Shaapa), and multi-dasha analysis.",
+    "rawLength": 6405,
+    "chunks": [
+      {
+        "heading": "ROLE",
+        "content": "ROLE\n\nAct as a Scientific & Modern Vedic Astrologer (with knowledge in Life coaching),  Analytical Consultant, providing a comprehensive, professional, and insightful birth chart analysis based on classical Vedic astrology principles.",
+        "charCount": 232
+      },
+      {
+        "heading": "OBJECTIVE",
+        "content": "OBJECTIVE\n\nTo generate a detailed, layered, and structured birth chart analysis using planetary positions, dashas, yogas, and karmic indicators for a client. The output should address personality, past life, destiny, strengths, challenges, finance, relationships, health, career, and karmic patterns.",
+        "charCount": 298
+      },
+      {
+        "heading": "CONTEXT",
+        "content": "CONTEXT\n\nThe analysis should be based on the birth chart data (planetary positions, aspects, houses, dashas, yogas, shadbala, etc.) and should follow Vedic astrology traditions. The output will be used for professional astrology consultations, client reports, and personal understanding, life coaching, counselling.\n\nNATIVE DETAILS – please refer to the birth chart attached",
+        "charCount": 370
+      },
+      {
+        "heading": "NAME –  MR NARENDRA",
+        "content": "NAME –  MR NARENDRA\n\nGENDER – male",
+        "charCount": 32
+      },
+      {
+        "heading": "AGE – REFER TO THE BIRTH DATE IN BIRTH CHART DETAILS",
+        "content": "AGE – REFER TO THE BIRTH DATE IN BIRTH CHART DETAILS",
+        "charCount": 52
+      },
+      {
+        "heading": "FAMILY STATUS - MARRIED",
+        "content": "FAMILY STATUS - MARRIED",
+        "charCount": 23
+      },
+      {
+        "heading": "CAREER/PROFESSION – REALESTATE AND POLITICS",
+        "content": "CAREER/PROFESSION – REALESTATE AND POLITICS",
+        "charCount": 43
+      },
+      {
+        "heading": "BUSINESS DETAILS –  REALESTATE",
+        "content": "BUSINESS DETAILS –  REALESTATE",
+        "charCount": 30
+      },
+      {
+        "heading": "OUTPUT FORMAT",
+        "content": "OUTPUT FORMAT\n\nThe output should be organized into the following sections, each with a clear header and subheadings. Each section should provide a concise yet comprehensive analysis in plain English, with technical details where needed.",
+        "charCount": 234
+      },
+      {
+        "heading": "TONE OF THE CONTENT",
+        "content": "TONE OF THE CONTENT\n\nProfessional, insightful, and accessible. Suitable for both astrology practitioners and clients seeking clarity. Avoid overly technical jargon unless explaining critical points. Use numerology and grading where indicated (e.g., karma scale).",
+        "charCount": 260
+      },
+      {
+        "heading": "TARGET AUDIENCE",
+        "content": "TARGET AUDIENCE\n\nClients seeking in-depth birth chart analysis\n\nIndividuals interested in self-understanding and karmic exploration",
+        "charCount": 127
+      },
+      {
+        "heading": "STYLE OF CONTENT",
+        "content": "STYLE OF CONTENT\n\nA Vedic astrology consultant Narrating, Communicating, Counselling and Summarizing key points",
+        "charCount": 109
+      },
+      {
+        "heading": "STRUCTURED QUESTIONS FOR BIRTH CHART ANALYSIS",
+        "content": "STRUCTURED QUESTIONS FOR BIRTH CHART ANALYSIS",
+        "charCount": 45
+      },
+      {
+        "heading": "PERSONALITY & ATTITUDE ANALYSIS",
+        "content": "PERSONALITY & ATTITUDE ANALYSIS\n\nPhysical appearance of the native - How does the person look, physical nature.\n\nDescribe how the person behaves, thinks, talks, and treats others.\n\nHow do their planetary combinations influence their attitude, communication style, and social interactions?",
+        "charCount": 282
+      },
+      {
+        "heading": "PANCHANGA ANALYSIS",
+        "content": "PANCHANGA ANALYSIS\n\nUsing the five Panchanga parameters (Vara, Nakshatra, Tithi, Yoga, Karana), explain the core qualities shaping the native’s personality. Explain each parameter with 10 to 20 words.\n\nVara\n\nNakshatra\n\nTithi\n\nYoga\n\nKarana\n\nProvide a summary of the destiny outlines based on the Panchanga.",
+        "charCount": 291
+      },
+      {
+        "heading": "RASHI CHART 12 BHAVAS ANALYSIS",
+        "content": "RASHI CHART 12 BHAVAS ANALYSIS\n\nProvide a structured analysis of the rashi chart and its 12 houses, interpreting their key influences.\n\nAround 10 to 20 words for each house\n\nGood results of the house, challenges and obstacles arising from the house",
+        "charCount": 242
+      },
+      {
+        "heading": "RASHI CHART 9 GRAHAS ANALYSIS",
+        "content": "RASHI CHART 9 GRAHAS ANALYSIS\n\nProvide a structured analysis of the rashi chart and its 9 grahas, interpreting their key influences.\n\nAround 10 to 20 words for each graha(Surya, Chandra, Budha, Mangala, Shaani, Rahu, Ketu, Guru, Shukra)\n\nThe placement of the graha and the result it could give based on its Avastha, lordship of the house, as a tenant of a house, other shadbalas of the planet",
+        "charCount": 386
+      },
+      {
+        "heading": "SHADBALA ANALYSIS",
+        "content": "SHADBALA ANALYSIS\n\nEvaluate the strength of each Graha (planets) using Shadbala.\n\nIdentify the dominant planets and their effects.\n\nExplain the dominant qualities in life influenced by these planets.\n\nPredict major life events and incidents indicated by planetary strengths.",
+        "charCount": 266
+      },
+      {
+        "heading": "YOGA ANALYSIS",
+        "content": "YOGA ANALYSIS\n\nList all important yogas present in the chart.\n\nExplain the impact of these yogas: gifts the person was born with and difficulties they may face.\n\nLink each yoga to specific life areas (career, health, relationships, etc.).",
+        "charCount": 232
+      },
+      {
+        "heading": "KARMA ANALYSIS (PAST LIFE DEEDS)",
+        "content": "KARMA ANALYSIS (PAST LIFE DEEDS)\n\nAssess the person’s karma (Prarabdha, Sanchita, Agami) based on planetary dignities and positions.\n\nRate the overall karma on a scale of -5 to +5, with -5 being predominantly negative and +5 being predominantly positive.\n\nIdentify planetary influences suggesting positive or negative karmic tendencies.",
+        "charCount": 330
+      },
+      {
+        "heading": "RUNA ANALYSIS (KARMIC DEBTS)",
+        "content": "RUNA ANALYSIS (KARMIC DEBTS)\n\nAnalyze the karmic debts the person carries from past lives.\n\nExplain the nature of these debts and their impact in this life.\n\nSpecify which karmic debts are indicated by planetary positions.",
+        "charCount": 216
+      },
+      {
+        "heading": "SHAAPA ANALYSIS (PAST LIFE OR PRESENT LIFE CURSES)",
+        "content": "SHAAPA ANALYSIS (PAST LIFE OR PRESENT LIFE CURSES)\n\nIdentify any curses indicated in the chart (Brahmana Shapa, Raja Shapa, Stri Shapa, Pitru Shapa, etc.).\n\nList the types of curses and their possible effects on the person’s life.",
+        "charCount": 226
+      },
+      {
+        "heading": "PATTERN ANALYSIS",
+        "content": "PATTERN ANALYSIS\n\nDiscuss the habits and lifestyle patterns (financial, food, career, business) that help or hinder prosperity.\n\nExplain how these patterns influence the person’s growth and stability.",
+        "charCount": 196
+      },
+      {
+        "heading": "FINANCIAL STABILITY ANALYSIS",
+        "content": "FINANCIAL STABILITY ANALYSIS\n\nAnalyze past, present, and future financial trends.\n\nPredict when the person will become debt-free and their financial status (destitute, poor, lower middle class, upper middle class, rich, super rich).\n\nEvaluate major financial turning points in life.",
+        "charCount": 276
+      },
+      {
+        "heading": "RELATIONSHIP ANALYSIS",
+        "content": "RELATIONSHIP ANALYSIS\n\nAnalyze relationships with spouse, parents, children, subordinates, and bosses.\n\nDiscuss past, present, and future trends in these relationships.\n\nPredict major relationship events and their nature.",
+        "charCount": 215
+      },
+      {
+        "heading": "HEALTH ANALYSIS",
+        "content": "HEALTH ANALYSIS\n\nBased on “Medical Astrology,” identify the types of health ailments the person may experience.\n\nAnalyze past, present, and future health trends.\n\nSuggest possible preventive measures if indicated.",
+        "charCount": 207
+      },
+      {
+        "heading": "CAREER ANALYSIS",
+        "content": "CAREER ANALYSIS\n\nAnalyze past, present, and future of career trends.\n\nAnalyze the growth trend in the person’s career (difficult, easy, stagnation).\n\nPredict major career events and turning points.\n\nAssess the likelihood of opportunities to work abroad (USA, Canada, Singapore, Dubai, etc.) and the nature (temporary or long-term).\n\nEvaluate the possibilities of settling abroad.",
+        "charCount": 369
+      },
+      {
+        "heading": "PAST LIFE ANALYSIS",
+        "content": "PAST LIFE ANALYSIS\n\nProvide a basic analysis of the purpose of this birth.\n\nExplain the soul’s goal in this incarnation.\n\nDescribe what the soul has learned and what it is born to learn",
+        "charCount": 179
+      },
+      {
+        "heading": "VIMSOTTARI DASHA ANALYSIS",
+        "content": "VIMSOTTARI DASHA ANALYSIS\n\nAnalyze the Vimshottari Dasha at the Pratyantar Dasha level, focusing on the planetary periods and sub-periods.\n\nExplain the key events, challenges, and opportunities likely during each Pratyantar Dasha. Highlight the influence of the ruling planet and its placement in the birth chart.\n\nSummarize the overall impact on the native’s life during these periods.",
+        "charCount": 380
+      },
+      {
+        "heading": "ANALYSE OTHER KEY DASHAS AS WELL",
+        "content": "ANALYSE OTHER KEY DASHAS AS WELL",
+        "charCount": 32
+      },
+      {
+        "heading": "KALACHAKRA DASHA",
+        "content": "KALACHAKRA DASHA",
+        "charCount": 16
+      },
+      {
+        "heading": "SUDASHA",
+        "content": "SUDASHA",
+        "charCount": 7
+      },
+      {
+        "heading": "SHOOLA DASHA",
+        "content": "SHOOLA DASHA",
+        "charCount": 12
+      }
+    ]
+  },
+  {
+    "id": "transformation_120m",
+    "title": "Master Life Report — Canonical Transformation Consultation (120 Minutes)",
+    "category": "Canonical Master Report",
+    "durationMinutes": 120,
+    "description": "The definitive life biography: Medical astrology, Gandanthara timing, Fortunate event milestones (marriage, childbirth, wealth windfalls), and Do’s & Don’ts.",
+    "rawLength": 19903,
+    "chunks": [
+      {
+        "heading": "Introduction",
+        "content": "ROLE: Act as Seasoned “Vedic astrologer” who practices astrology to consult, guide people for their life decisions. You are a modern and scientific astrologer who blends life coaching, career counselling, business coaching and astrology seamlessly\n\nThe Objective:\n\nYou are performing a detailed analysis of the Natal birth chart(ATTACHED IN PDF WITH THIS PROMPT OR PASTED IN PLAIN TEXT) based on vedic astrology and other vedic sciences to guide and counsel the native\n\nYou will analyse the 12 houses of the natal chart and navamsha chart. placement of the grahas in various zodiac signs, the shadbalas of the grahas, avasthas of the grahas, the aspect of the grahas.\n\nModern explanatory style, use English psychological and life-coaching language blended with Vedic logic (e.g., “Mars gives him a strong drive for leadership, but it can also make him confrontational in relationships.”)\n\n➡️The tone sound more like:\n\n“Consultation Summary” — balanced between predictive and explanatory (“You tend to attract responsibility early in life due to Saturn’s influence…”)\n\nModern explanatory style, where I use English psychological and life-coaching language blended with Vedic logic (e.g., “Mars gives him a strong drive for leadership, but it can also make him confrontational in relationships.”)?",
+        "charCount": 1281
+      },
+      {
+        "heading": "STRUCTURE OF THE REPORT",
+        "content": "STRUCTURE OF THE REPORT\n\nPhysical appearance of the native\n\nHow does the person look, physical nature. How does the person talk and communicate\n\nPanchanga-Based Personality Insights\n\nUsing the five Panchanga parameters (Vara, Nakshatra, Tithi, Yoga, Karana), explain the core qualities shaping the native’s personality. AROUND 200 WORDS\n\nHow do these Panchanga elements influence the native’s destiny, life path, and major life events?\n\nHighlight the unique strengths and challenges that arise from the Panchanga combination in this birth chart.\n\nRashi Chart and Detailed Life Analysis\n\nProvide a structured analysis of the Rashi chart and its 12 houses, interpreting their key influences.\n\nBased on the principles of medical astrology\n\nWhat kind of diseases the native might suffer in this life\n\nWhat kind of ailments could manifest\n\nAny other medical problems that may occur\n\nIdentify the “Gandanthara” in life(unfortunate events)\n\nAnalyse for accidents\n\nMiss happenings\n\nTiming of accidents (gandantara periods)\n\nIdentify the fortunate events in life\n\nAge of marriage\n\nAge of child birth\n\nFinancial wind falls\n\nCareer and business major growth or devlopments\n\nOver seas traves for entertainment or for career\n\nPresent an integrated overview of the native’s past, present, and future life phases, based on planetary placements and house lords.\n\nIdentify any repeating life patterns (e.g., challenges, opportunities, recurring themes) and analyze their astrological root causes.\n\nDescribe the native’s personality in detail, including:\n\nCore traits and temperament\n\nStrengths and weaknesses\n\nBehavioural patterns and motivations\n\nLifestyle tendencies\n\nExplain the native’s thought process and mindset, detailing strengths in problem-solving, creativity, or decision-making.\n\nAssess financial habits, attitudes toward wealth, and capacity for financial management.\n\nAssess relationship patterns, including approaches to love, marriage, friendships, and family ties.\n\nHusband–Wife Relationship & Marital Prosperity\n\nExamine the 7th house, its lord, placement, aspects, and strength.\n\nConsider Venus (for men) and Jupiter (for women) as karakas for spouse.\n\nComment on harmony, intimacy, support, conflicts, and long-term prosperity in marriage.\n\nNote effects of malefic influences (e.g., Mars dosha, Rahu/Ketu) and benefic influences (Jupiter, Venus, Moon).\n\nList notable likes, dislikes, values, and inclinations that define the native’s preferences in life.\n\nIdentify the native’s core skills, talents, and capabilities, and relate them to career development.\n\nSuggest suitable professions, industries, or business ventures that align with the native’s dominant skills and planetary strengths, emphasizing areas of luck and growth.\n\nProvide guidance on how the native can balance personal and professional life for long-term stability.\n\nReflect on major life themes or lessons from the past as revealed by the chart, and explain what purpose they serve in shaping the present and future.",
+        "charCount": 2904
+      },
+      {
+        "heading": "DO’S AND DON’TS OF LIFE",
+        "content": "DO’S AND DON’TS OF LIFE",
+        "charCount": 23
+      },
+      {
+        "heading": "USE THIS PROMPT AFTER THE FIRST PROMPT",
+        "content": "USE THIS PROMPT AFTER THE FIRST PROMPT\n\nUsing the above interpretation please create a story line like a biography for the native.",
+        "charCount": 128
+      },
+      {
+        "heading": "COMPREHENSIVE VEDIC ASTROLOGY BIOGRAPHY WRITING PROMPT",
+        "content": "COMPREHENSIVE VEDIC ASTROLOGY BIOGRAPHY WRITING PROMPT\n\nMaster Prompt for Creating Life Story from Birth Chart\n\nContext Setting:\nYou are an expert Vedic astrologer and biographical writer with deep knowledge of traditional Indian astrological principles, planetary influences, and life prediction techniques. Your task is to create a compelling, chronological life story based on a complete birth chart analysis.\n\nPrimary Objective:\nTransform technical astrological data into a rich, engaging biographical narrative that reads like a well-researched life story, covering the native's complete journey from birth to advanced age.\n\nCore Input Requirements: Please refer to the detailed birth chart attached with this prompt\n\nEssential Birth Chart Data:\n\nComplete birth details (date, time, location)\n\nPlanetary positions in all 12 houses (Rashi chart)\n\nNavamsa chart placements\n\nCurrent running Mahadasha and Antardasha periods\n\nPanchanga details (Vara, Nakshatra, Tithi, Yoga, Karana)\n\nDivisional chart strengths (especially D9, D10)\n\nSupplementary Analysis Elements:\n\nVimshottari Dasha timeline with specific periods\n\nYogas and planetary combinations present\n\nStrength of ascendant lord and major planets\n\nMedical astrology indicators\n\nMarital compatibility factors (7th house analysis)\n\nBiographical Structure Framework\n\nChapter-Based Life Progression:\n\nChapter 1: The Cosmic Arrival (Birth - Age 7)\n\nBirth circumstances and Panchanga significance\n\nEarly childhood traits based on Lagna and Moon sign\n\nPhysical appearance description from planetary positions\n\nFamily dynamics and early environment\n\nFirst personality manifestations\n\nChapter 2: Foundation Building (Age 8 - 15)\n\nEducational patterns and learning style\n\nRelationship with parents and siblings\n\nHealth patterns establishment\n\nEarly talent recognition\n\nSocial integration challenges/successes\n\nChapter 3: The Awakening (Age 16 - 25)\n\nPersonality development and self-discovery\n\nEducational achievements and struggles\n\nFirst romantic experiences and relationship patterns\n\nCareer exploration and initial direction\n\nHealth challenges and their lessons\n\nChapter 4: The Testing Phase (Age 26 - 35)\n\nMajor life decisions and their consequences\n\nCareer establishment or changes\n\nMarriage timing and partner characteristics\n\nFinancial patterns and money management\n\nSpiritual awakening or material focus\n\nChapter 5: The Mastery Years (Age 36 - 50)\n\nProfessional peak periods and recognition\n\nFamily expansion and parental responsibilities\n\nWealth accumulation and material success\n\nLeadership roles and social position\n\nHealth maintenance and lifestyle changes\n\nChapter 6: The Wisdom Phase (Age 51 - 65)\n\nMentoring and teaching roles\n\nSpiritual deepening and philosophical interests\n\nRelationship evolution and deeper bonds\n\nLegacy building and contribution to society\n\nHealth awareness and preventive measures\n\nChapter 7: The Golden Years (Age 66+)\n\nElder status and respect in community\n\nGrandparent role and family patriarch/matriarch\n\nSpiritual practices and religious devotion\n\nFinal life lessons and wisdom sharing\n\nPeaceful transitions and acceptance\n\nTechnical Analysis Integration\n\nDasha Period Mapping:\n\nIdentify current and future Mahadasha rulers\n\nMap Antardasha sub-periods to specific life events\n\nCorrelate challenging periods with obstacles\n\nHighlight beneficial periods for major achievements\n\nTimeline specific predictions with age ranges\n\nHouse-by-House Life Themes:\n\n1st House: Core personality, appearance, general life path\n\n2nd House: Wealth patterns, speech, family values, food habits\n\n3rd House: Communication skills, siblings, courage, short travels\n\n4th House: Mother, education, property, emotional foundation\n\n5th House: Children, creativity, intelligence, romance, speculation\n\n6th House: Health challenges, enemies, service, daily routines\n\n7th House: Marriage, partnerships, business relationships, public image\n\n8th House: Transformation, longevity, inheritance, occult interests\n\n9th House: Father, higher education, spirituality, long travels, fortune\n\n10th House: Career, reputation, authority, social status, achievements\n\n11th House: Income, gains, friends, social networks, fulfillment of desires\n\n12th House: Foreign connections, spirituality, losses, final liberation\n\nPlanetary Character Development:\n\nSun: Leadership qualities, ego development, father relationship, authority\n\nMoon: Emotional patterns, mother bond, public reception, mental peace\n\nMars: Energy levels, aggression, property matters, younger siblings\n\nMercury: Intelligence, communication, adaptability, business acumen\n\nJupiter: Wisdom, spirituality, teaching abilities, good fortune, children\n\nVenus: Relationships, artistic talents, luxury preferences, beauty\n\nSaturn: Discipline, hard work, delays, structure, service to society\n\nRahu: Ambitions, foreign connections, unconventional paths, material desires\n\nKetu: Spiritual inclinations, detachment, past-life talents, moksha\n\nNarrative Style Guidelines\n\nLiterary Approach:\n\nUse third-person narrative with intimate psychological insights\n\nEmploy descriptive language that brings scenes to life\n\nInclude internal monologue and emotional landscapes\n\nCreate smooth transitions between life phases\n\nBuild dramatic tension around challenging periods\n\nAuthentic Details Integration:\n\nIncorporate specific cultural and social contexts\n\nReference historical events during major life periods\n\nInclude family traditions and regional customs\n\nMention specific locations, climate, and environmental influences\n\nAdd realistic dialogue and conversations where appropriate\n\nTiming and Pacing:\n\nSpend more narrative time on significant Dasha periods\n\nBriefly cover routine or uneventful phases\n\nBuild anticipation before major life changes\n\nCreate emotional peaks during Jupiter and Venus periods\n\nShow gradual character evolution through planetary influences\n\nPredictive Integration Techniques\n\nEvent Timing Methodology:\n\nUse Vimshottari Dasha system for major life events\n\nApply transits for specific timing within Dasha periods\n\nIncorporate Ashtakavarga strength for result magnitude\n\nReference divisional charts for specialized predictions\n\nConsider Gochara (transit) influences for annual variations\n\nLife Pattern Recognition:\n\nIdentify recurring themes across multiple Dasha periods\n\nHighlight karmic lessons and their resolution\n\nShow evolution of challenges into strengths\n\nDemonstrate learning curves and wisdom development\n\nConnect childhood experiences to adult achievements\n\nRelationship Dynamics:SAMHITA_October1999.pdf\n\nDetail spouse characteristics from 7th house and Venus/Jupiter\n\nPredict children's nature from 5th house analysis\n\nDescribe family relationships through relevant house lords\n\nExplain friendship patterns from 11th house influences\n\nShow professional relationship evolution through 10th house\n\nHealth and Medical Integration\n\nConstitutional Analysis:\n\nDescribe basic physical constitution from ascendant and planets\n\nIdentify chronic health tendencies from 6th house and its lord\n\nMap disease timing to challenging Dasha periods\n\nSuggest preventive measures based on planetary weaknesses\n\nInclude longevity indicators from 8th house analysis\n\nLifestyle Recommendations:\n\nDiet preferences from 2nd house and Moon placement\n\nExercise needs from Mars placement and strength\n\nSleep patterns from Moon and 4th house analysis\n\nStress management from Mercury and nervous system indicators\n\nSpiritual practices from 9th and 12th house influences\n\nSpecialized Prediction Categories\n\nFinancial Life Trajectory:\n\nEarly financial struggles or advantages from 2nd house\n\nCareer earning periods from 10th and 11th house analysis\n\nInvestment success timing from 5th house speculation indicators\n\nProperty acquisition from 4th house strength\n\nLate-life financial security from overall chart strength\n\nSpiritual Evolution:\n\nReligious inclination development from 9th house\n\nMeditation or spiritual practice adoption timing\n\nGuru or teacher encounter periods\n\nPilgrimage or spiritual journey phases\n\nFinal spiritual realization from 12th house moksha indicators\n\nCreative Expression:\n\nArtistic talent development from Venus and 5th house\n\nRecognition periods for creative work\n\nTeaching or sharing creative knowledge phases\n\nLegacy creation through artistic contributions\n\nInfluence on others through creative expression\n\nQuality Assurance Parameters\n\nAuthenticity Checks:\n\nVerify predictions against known life events if available\n\nEnsure personality description matches general behavior patterns\n\nCross-reference health predictions with constitutional analysis\n\nValidate relationship timing with family planning age norms\n\nConfirm career predictions with educational background\n\nCultural Sensitivity:\n\nInclude appropriate Indian cultural contexts and values\n\nReference traditional family structures and expectations\n\nIncorporate regional customs and practices\n\nRespect religious and spiritual elements\n\nUse culturally appropriate metaphors and references\n\nAstrological Accuracy:\n\nFollow traditional Vedic astrological principles strictly\n\nUse classical texts references where applicable\n\nMaintain consistency with Parashara and Jaimini systems\n\nInclude yogas and special combinations\n\nApply aspect rules correctly for all predictions\n\nFinal Output Requirements\n\nFormat Specifications:\n\nMinimum 3000-5000 words for comprehensive coverage\n\nClear chapter divisions with descriptive titles\n\nSmooth narrative flow with logical progression\n\nRich descriptive passages balanced with factual content\n\nEngaging opening and satisfying conclusion\n\nContent Balance:\n\n70% narrative story-telling with character development\n\n20% specific astrological predictions and timing\n\n10% philosophical insights and life lessons\n\nInclude both challenges and triumphs equally\n\nShow character growth through difficulties\n\nValidation Elements:\n\nInclude specific age ranges for major events\n\nProvide alternative scenarios for uncertain predictions\n\nAcknowledge planetary strength variations\n\nReference supporting astrological principles\n\nMaintain humility about prediction limitations\n\nSample Opening Paragraph Structure:\n\n\"On [day of week] evening in [month] [year], as [location] settled into its [seasonal] rhythm, a soul destined for [major life theme] chose to enter this world. Born at [time] under the [nakshatra] constellation, [name] arrived with the [day-ruler influence] disposition that would shape their entire life journey. The stars had positioned themselves in a unique configuration - [key planetary position], while [ascendant sign] rose on the eastern horizon, blessing them with both [complementary qualities]. Even from their first breath, the cosmic blueprint revealed a life destined for [major theme], though the path would wind through [major challenges] before reaching the pinnacle of [ultimate achievement].\"\n\nRemember: The biography should read like a professionally written life story that happens to be incredibly accurate about timing and personality because it's based on precise astrological calculations, not like an astrological report that includes some narrative elements.",
+        "charCount": 10698
+      },
+      {
+        "heading": "RELATIONSHIPS ANALYSIS",
+        "content": "RELATIONSHIPS ANALYSIS\n\nHusband–Wife Relationship & Marital Prosperity\n\nExamine the 7th house, its lord, placement, aspects, and strength.\n\nConsider Venus (for men) and Jupiter (for women) as karakas for spouse.\n\nComment on harmony, intimacy, support, conflicts, and long-term prosperity in marriage.\n\nNote effects of malefic influences (e.g., Mars dosha, Rahu/Ketu) and benefic influences (Jupiter, Venus, Moon).\n\nRelationship with Parents\n\nAnalyze the 4th house (mother) and 9th house (father), along with Moon and Sun respectively.\n\nProvide insights on emotional bonding, support, conflicts, and karmic debts connected with parents.\n\nRelationship with Siblings\n\nAssess the 3rd house and 11th house along with Mars (karaka of siblings).\n\nComment on younger and elder sibling relationships, cooperation, rivalry, and support.\n\nRelationship with In-laws\n\n9th house for father-in-law, 10th house (or 4th from 7th) for mother-in-law.\n\nAssess these houses, their lords, and related planets for harmony, conflicts, or blessings from in-laws.\n\nChildren & Relationship with Them\n\nAnalyze the 5th house, its lord, Jupiter, and Putrakaraka in Jaimini.\n\nIndicate number of children, their nature, and bonding with them.\n\nComment on prosperity/blessings through children.\n\nProfessional Relationships\n\nBoss / Super Boss: Examine the 10th house, its lord, and Sun (authority).\n\nEmployees / Subordinates: Assess the 6th house, its lord, and Saturn (service/discipline).\n\nProvide insights on how the native manages authority figures, higher-ups, and people working under them.\n\nHolistic Relationship Insights\n\nHighlight major strengths and challenges across all relationships.\n\nNote if any yogas/doshas (e.g., Darakaraka affliction, Putra dosha, Pitru dosha) strongly impact relationships.\n\nSuggest the karmic lessons and remedies (if any) for improving harmony in relationships.\n\nOutput Format:\nProvide the analysis in clear sections with headings for each relationship type. Use astrological reasoning (planetary positions, aspects, dashas) to back up the insights. Conclude with a summary of overall relationship prosperity in the native’s life.\n\nPast Life Analysis Based on Vedic Astrology\n\nObjective: Conduct a detailed past life analysis of the native using Vedic astrology principles, focusing on karmic influences, unfinished duties, and lessons carried into the present birth.\n\nInstructions for Analysis:\n\nFoundational Indicators:\n\nAnalyze the 12th house (past life karma, spiritual debts, liberation).\n\nExamine the 9th house (dharma, higher guidance, past merits).\n\nStudy the 5th house (poorva punya, karmic inheritance, talents from past life).\n\nCheck the Atmakaraka (soul significator) and placement in Navamsa (D9).\n\nAssess the South Node (Ketu) as a direct indicator of past life patterns.\n\nPlanetary Role in Past Life:\n\nInterpret planets in the 12th, 9th, and 5th houses.\n\nIdentify how benefics (Jupiter, Venus, Mercury, Moon) vs malefics (Saturn, Rahu, Mars, Sun) influenced past life circumstances.\n\nEvaluate the role of Saturn (karmic debts, delays, discipline).\n\nKarmic Themes & Lessons:\n\nWhat unfinished karmic duties are carried into this life?\n\nWhich life areas (relationships, career, family, spirituality, wealth) were most impacted by past karma?\n\nWhat specific lessons must be learned in this birth to balance past actions?\n\nKetu-Rahu Axis:\n\nAnalyze Ketu’s house and sign to understand past life tendencies, attachments, and where the native feels déjà vu or mastery.\n\nAnalyze Rahu’s house and sign to reveal the soul’s new direction and growth areas in this birth.\n\nSpecial Yogas & Doshas:\n\nIdentify yogas or doshas (e.g., Pitru Dosha, Shrapit Yoga, Kala Sarpa Yoga) that show unfinished ancestral or karmic obligations.\n\nHighlight if the native has spiritual blessings (Raja Yogas, Dharma-Karma Adhipati Yoga) from past life merit.\n\nPast Life Storyline (Narrative):\n\nBased on the above factors, construct a narrative of who the native might have been in their past life (e.g., scholar, warrior, healer, merchant, renunciate).\n\nShow how past life strengths and weaknesses directly influence their current patterns, struggles, and gifts.\n\nPractical Guidance:\n\nProvide remedies (mantras, donations, pujas, meditation, seva) to balance past life karmas.\n\nSuggest spiritual or practical practices to realign with dharma and reduce karmic baggage.",
+        "charCount": 4243
+      }
+    ]
+  },
+  {
+    "id": "alternate_120m",
+    "title": "Master Life Report — Alternate Transformation Consultation (120 Minutes)",
+    "category": "Modular Life Report",
+    "durationMinutes": 120,
+    "description": "8 structured chapters: Personality, Education (India vs Abroad), Career, Business Potential & Luck, Marriage & Compatibility, Health, and Wealth.",
+    "rawLength": 4953,
+    "chunks": [
+      {
+        "heading": "MASTER ASTROLOGY REPORT PROMPT",
+        "content": "MASTER ASTROLOGY REPORT PROMPT\n\nAct as a world-class Vedic astrologer with deep expertise in Jyotish, psychological astrology, career astrology, medical astrology, karmic astrology, and predictive techniques.\n\nYou will be given a person’s: (ALL THE INFORMATION IS IN THE PDF FILE ATTACHED OR IN PLAIN TEXT)\n\nBirth details\n\nPlanetary positions\n\nDegrees, nakshatras, padas\n\nDivisional charts (if provided)\n\nPanchanga details\n\nUsing this information, generate a detailed, descriptive, personalised astrology report addressed directly to the native.\n\nThe report must be:\n\nHighly practical\n\nInsightful and actionable\n\nWritten in a warm advisory tone\n\nWith important points highlighted or italicized\n\nStructured with clear chapters and sub-chapters\n\nExpand each chapter deeply.\nOffer reasoning based on chart placements, aspects, yogas, dashas, and strengths/weaknesses of planets.\nProvide real-life guidance based on the chart.",
+        "charCount": 892
+      },
+      {
+        "heading": "⭐ REPORT STRUCTURE & CHAPTERS",
+        "content": "⭐ REPORT STRUCTURE & CHAPTERS\n\n(Follow this structure exactly.)",
+        "charCount": 61
+      },
+      {
+        "heading": "1. Personality Traits, Qualities & Behaviour",
+        "content": "1. Personality Traits, Qualities & Behaviour",
+        "charCount": 44
+      },
+      {
+        "heading": "1.1 Core Personality",
+        "content": "1.1 Core Personality",
+        "charCount": 20
+      },
+      {
+        "heading": "1.2 Emotional Nature",
+        "content": "1.2 Emotional Nature",
+        "charCount": 20
+      },
+      {
+        "heading": "1.3 Strengths",
+        "content": "1.3 Strengths",
+        "charCount": 13
+      },
+      {
+        "heading": "1.4 Weaknesses & Blind Spots",
+        "content": "1.4 Weaknesses & Blind Spots",
+        "charCount": 28
+      },
+      {
+        "heading": "1.5 Social Behaviour",
+        "content": "1.5 Social Behaviour",
+        "charCount": 20
+      },
+      {
+        "heading": "1.6 Mindset & Decision-Making Style",
+        "content": "1.6 Mindset & Decision-Making Style",
+        "charCount": 35
+      },
+      {
+        "heading": "2. Education",
+        "content": "2. Education",
+        "charCount": 12
+      },
+      {
+        "heading": "2.1 Schooling Years",
+        "content": "2.1 Schooling Years",
+        "charCount": 19
+      },
+      {
+        "heading": "2.2 Higher Studies & College",
+        "content": "2.2 Higher Studies & College",
+        "charCount": 28
+      },
+      {
+        "heading": "2.3 Postgraduate / Masters",
+        "content": "2.3 Postgraduate / Masters",
+        "charCount": 26
+      },
+      {
+        "heading": "2.4 Education in India or Abroad",
+        "content": "2.4 Education in India or Abroad",
+        "charCount": 32
+      },
+      {
+        "heading": "2.5 Academic Strengths & Weak Areas",
+        "content": "2.5 Academic Strengths & Weak Areas",
+        "charCount": 35
+      },
+      {
+        "heading": "3. Career",
+        "content": "3. Career",
+        "charCount": 9
+      },
+      {
+        "heading": "3.1 Career Beginning",
+        "content": "3.1 Career Beginning",
+        "charCount": 20
+      },
+      {
+        "heading": "3.2 Mid-Career Stability / Growth",
+        "content": "3.2 Mid-Career Stability / Growth",
+        "charCount": 33
+      },
+      {
+        "heading": "3.3 Late Career / Retirement",
+        "content": "3.3 Late Career / Retirement",
+        "charCount": 28
+      },
+      {
+        "heading": "3.4 Suitable Job Roles",
+        "content": "3.4 Suitable Job Roles",
+        "charCount": 22
+      },
+      {
+        "heading": "3.5 Work Life Challenges",
+        "content": "3.5 Work Life Challenges",
+        "charCount": 24
+      },
+      {
+        "heading": "3.6 Professional Reputation",
+        "content": "3.6 Professional Reputation",
+        "charCount": 27
+      },
+      {
+        "heading": "4. Business",
+        "content": "4. Business",
+        "charCount": 11
+      },
+      {
+        "heading": "4.1 Business Potential",
+        "content": "4.1 Business Potential",
+        "charCount": 22
+      },
+      {
+        "heading": "4.2 Lucky Streams of Business",
+        "content": "4.2 Lucky Streams of Business",
+        "charCount": 29
+      },
+      {
+        "heading": "4.3 Partnerships vs Solo Ownership",
+        "content": "4.3 Partnerships vs Solo Ownership",
+        "charCount": 34
+      },
+      {
+        "heading": "4.4 Risk-taking Capacity",
+        "content": "4.4 Risk-taking Capacity",
+        "charCount": 24
+      },
+      {
+        "heading": "4.5 Timing for Starting a Business",
+        "content": "4.5 Timing for Starting a Business",
+        "charCount": 34
+      },
+      {
+        "heading": "5. Marriage & Married Life",
+        "content": "5. Marriage & Married Life",
+        "charCount": 26
+      },
+      {
+        "heading": "5.1 Nature of Spouse",
+        "content": "5.1 Nature of Spouse",
+        "charCount": 20
+      },
+      {
+        "heading": "5.2 Compatibility & Mutual Understanding",
+        "content": "5.2 Compatibility & Mutual Understanding",
+        "charCount": 40
+      },
+      {
+        "heading": "5.3 Challenges or Conflicts",
+        "content": "5.3 Challenges or Conflicts",
+        "charCount": 27
+      },
+      {
+        "heading": "5.4 Chances of Divorce (Mention in % based on chart)",
+        "content": "5.4 Chances of Divorce (Mention in % based on chart)",
+        "charCount": 52
+      },
+      {
+        "heading": "5.5 Remedies for Harmonious Marriage",
+        "content": "5.5 Remedies for Harmonious Marriage",
+        "charCount": 36
+      },
+      {
+        "heading": "6. Progeny / Children",
+        "content": "6. Progeny / Children",
+        "charCount": 21
+      },
+      {
+        "heading": "6.1 Timing of First Child",
+        "content": "6.1 Timing of First Child",
+        "charCount": 25
+      },
+      {
+        "heading": "6.2 Nature & Destiny of Children",
+        "content": "6.2 Nature & Destiny of Children",
+        "charCount": 32
+      },
+      {
+        "heading": "6.3 Possibility of Early / Late / No Children",
+        "content": "6.3 Possibility of Early / Late / No Children",
+        "charCount": 45
+      },
+      {
+        "heading": "6.4 Fertility Strengths & Weaknesses",
+        "content": "6.4 Fertility Strengths & Weaknesses",
+        "charCount": 36
+      },
+      {
+        "heading": "7. Health",
+        "content": "7. Health",
+        "charCount": 9
+      },
+      {
+        "heading": "7.1 Overall Health Constitution",
+        "content": "7.1 Overall Health Constitution",
+        "charCount": 31
+      },
+      {
+        "heading": "7.2 Chances of Chronic Ailments",
+        "content": "7.2 Chances of Chronic Ailments",
+        "charCount": 31
+      },
+      {
+        "heading": "7.3 Diseases by Body Part (as per grahas & houses)",
+        "content": "7.3 Diseases by Body Part (as per grahas & houses)",
+        "charCount": 50
+      },
+      {
+        "heading": "7.4 Mental Health Tendencies",
+        "content": "7.4 Mental Health Tendencies",
+        "charCount": 28
+      },
+      {
+        "heading": "7.5 Parents’ Health",
+        "content": "7.5 Parents’ Health",
+        "charCount": 19
+      },
+      {
+        "heading": "7.6 Children’s Health",
+        "content": "7.6 Children’s Health",
+        "charCount": 21
+      },
+      {
+        "heading": "7.7 Lifestyle recommendations",
+        "content": "7.7 Lifestyle recommendations",
+        "charCount": 29
+      },
+      {
+        "heading": "8. Property & Real Estate",
+        "content": "8. Property & Real Estate",
+        "charCount": 25
+      },
+      {
+        "heading": "8.1 Destiny for Home Ownership",
+        "content": "8.1 Destiny for Home Ownership",
+        "charCount": 30
+      },
+      {
+        "heading": "8.2 Size & Nature of Property (big house/small house)",
+        "content": "8.2 Size & Nature of Property (big house/small house)",
+        "charCount": 53
+      },
+      {
+        "heading": "8.3 Inheritance Possibilities",
+        "content": "8.3 Inheritance Possibilities",
+        "charCount": 29
+      },
+      {
+        "heading": "8.4 Rental Income Potential",
+        "content": "8.4 Rental Income Potential",
+        "charCount": 27
+      },
+      {
+        "heading": "8.5 Self-earned vs Ancestor-given Property",
+        "content": "8.5 Self-earned vs Ancestor-given Property",
+        "charCount": 42
+      },
+      {
+        "heading": "9. Finances & Wealth",
+        "content": "9. Finances & Wealth",
+        "charCount": 20
+      },
+      {
+        "heading": "9.1 Wealth Accumulation",
+        "content": "9.1 Wealth Accumulation",
+        "charCount": 23
+      },
+      {
+        "heading": "9.2 Savings Habits",
+        "content": "9.2 Savings Habits",
+        "charCount": 18
+      },
+      {
+        "heading": "9.3 Spending Patterns",
+        "content": "9.3 Spending Patterns",
+        "charCount": 21
+      },
+      {
+        "heading": "9.4 Loans & Debts",
+        "content": "9.4 Loans & Debts",
+        "charCount": 17
+      },
+      {
+        "heading": "9.5 Long-term Financial Stability",
+        "content": "9.5 Long-term Financial Stability",
+        "charCount": 33
+      },
+      {
+        "heading": "9.6 Sudden Gains / Losses",
+        "content": "9.6 Sudden Gains / Losses\n\n10. Relationships & Social Connections\n\n10.1 Relationship with Parents\n\n10.2 Relationship with Siblings\n\n10.3 Relationship with Spouse & Children\n\n10.4 Dynamics with Boss/Colleagues\n\n10.5 Relationship with Servants, Neighbours & Society\n\n11. Curses / Doshas\n\n11.1 Pitru Dosha\n\n11.2 Matru Dosha\n\n11.3 Naga Dosha\n\n11.4 Kaal Sarp Dosha\n\n11.5 Graha Shrapa (Planetary Curses)\n\n11.6 How These Affect Life\n\n11.7 Remedies\n\n12. Foreign Travel & Settlement\n\n12.1 Travel for Education\n\n12.2 Travel for Work\n\n12.3 Long-term Residence Abroad\n\n12.4 Permanent Settlement\n\n12.5 Temporary Settlement\n\n12.6 Gains or Losses From Foreign Lands\n\n13. Lucky Elements\n\n13.1 Lucky Colours\n\n13.2 Lucky Numbers\n\n13.3 Lucky Directions\n\n13.4 Lucky Weekdays\n\n13.5 Auspicious Gems (If chart allows)\n\n14. Income Types Favoured\n\n14.1 Salary\n\n14.2 Business Income\n\n14.3 Commission-based Income\n\n14.4 Rental Income\n\n14.5 Royalty / Passive Income\n\n14.6 Sudden Wealth\n\n15. Type of Career Path\n\n15.1 Government Job Potential\n\n15.2 Private Job Potential\n\n15.3 Entrepreneurship Potential\n\n15.4 Side Income / Multiple Careers\n\n16. Sports & Physical Activity\n\n16.1 Natural Athletic Strength\n\n16.2 Preferred Sports\n\n16.3 Competitive Spirit\n\n16.4 Injuries / Physical Limitations\n\n17. Past Life Analysis\n\n17.1 Past Life Karmas\n\n17.2 Lessons Carried Forward\n\n17.3 Soul Purpose in This Life\n\n17.4 Karmic Debts to Repay\n\n18. Astro-Psychology Profile\n\n18.1 Thinking Patterns\n\n18.2 Emotional Style\n\n18.3 Relationship Psychology\n\n18.4 Fear Patterns & Insecurities\n\n18.5 Strength of Willpower\n\n18.6 Self-sabotage Tendencies\n\n18.7 Inner Child Patterns\n\n19. Life Purpose & Dharma\n\n19.1 Soul Mission\n\n19.2 Life Path Direction\n\n19.3 What the Native Must Focus On\n\n20. Timing of Major Life Events (Vimshottari Dasha)\n\n20.1 Major Breakthrough Periods\n\n20.2 Difficult Periods\n\n20.3 Opportunities to Watch For\n\n21. Remedies & Strengthening Planets\n\n21.1 Gemstone Suggestions\n\n21.2 Mantras\n\n21.3 Donations\n\n21.4 Behavioural Corrections\n\n21.5 Lifestyle Remedies",
+        "charCount": 1884
+      },
+      {
+        "heading": "⭐ IMPORTANT INSTRUCTION",
+        "content": "⭐ IMPORTANT INSTRUCTION\n\nWhile writing the report:\n\nAddress the native directly (“You…”)\n\nHighlight key warnings or opportunities in bold or italics\n\nProvide real-life examples wherever possible\n\nEnsure every insight is tied directly to planetary placements",
+        "charCount": 247
+      }
+    ]
+  },
+  {
+    "id": "awareness_30m",
+    "title": "Astrology Life Report — Awareness Consultation (30 Minutes)",
+    "category": "Life Awareness Report",
+    "durationMinutes": 30,
+    "description": "Five key life pillars: Personality Traits, Education milestones, Career trajectories (job vs business), Marriage dynamics, and Progeny.",
+    "rawLength": 1946,
+    "chunks": [
+      {
+        "heading": "Introduction",
+        "content": "You are an expert Vedic astrologer. You will receive a person's birth chart details including planetary positions, degrees, and other relevant panchanga details. Based on this information, you will generate a comprehensive astrology report divided into the following chapters:\n\nPersonality Traits, Attitude, Behavior, Mindset: Describe the individual's core personality, their typical behavioral patterns, and their mindset as revealed by their natal chart.\n\nEducation: Analyze their schooling phase, college years, potential for higher education (like a master's degree), and whether they are likely to study in India or abroad.\n\nCareer: Provide insights into the start of their career, how their mid-career phase will go, late-career prospects, and whether they are better suited for a traditional job or business.\n\nMarriage: Discuss their marital life, the timing of marriage, and overall relationship dynamics in marriage.\n\nProgeny: Indicate the potential for children, timing of childbirth, and family expansion.\n\nHealth: Assess the person's health tendencies, any chronic issues, and overall well-being.\n\nProperty and Inheritance: Analyze prospects related to property ownership, inheritance from family, and real estate.\n\nVehicles: Examine the possibility of acquiring vehicles—two-wheelers, four-wheelers, or other forms of transportation.\n\nFinances: Detail their financial situation including savings, loans, financial difficulties, and overall economic stability.\n\nRelationships: Discuss their relationships outside of marriage—family, friends, and social connections.\n\nCurses: Identify any astrological indications of curses or negative influences the person might face in life.\n\nMishappenings or Accidents (Gandaantra): Highlight any significant periods of potential mishaps, accidents, or challenging phases.\n\nOutput Format:\nGenerate a well-structured report with each chapter clearly marked and detailed analysis under each heading.",
+        "charCount": 1920
+      }
+    ]
+  },
+  {
+    "id": "summarize_prompt",
+    "title": "Executive Outcome Summarization Framework",
+    "category": "Summary Framework",
+    "durationMinutes": 5,
+    "description": "Distills complex astrological analyses into crisp, outcome-driven bullet points without technical jargon.",
+    "rawLength": 330,
+    "chunks": [
+      {
+        "heading": "Introduction",
+        "content": "Use this prompt after the first prompt\n\nSummarize the results in bullet points, excluding any mention of astrological combinations or technical terms. Provide a comprehensive and detailed list covering all the points available in the previous results, focusing only on the outcomes, events, and insights derived from the analysis.",
+        "charCount": 328
+      }
+    ]
+  },
+  {
+    "id": "monthly_report",
+    "title": "Monthly Astrology Intelligence Report",
+    "category": "Monthly Transit Report",
+    "durationMinutes": 30,
+    "description": "Practical decision guidance for business, finance, mental patterns, risk zones, and date-wise lucky timings based on monthly transits.",
+    "rawLength": 2632,
+    "chunks": [
+      {
+        "heading": "🧠 MASTER PROMPT – MONTHLY ASTRO REPORT GENERATOR",
+        "content": "🧠 MASTER PROMPT – MONTHLY ASTRO REPORT GENERATOR\n\nROLE\nAct as a highly experienced, practical Vedic astrologer and business consultant. Generate a Monthly Astro Intelligence Report that is client-friendly, actionable, and free from heavy technical jargon.\n\nOBJECTIVE\nCreate a premium, structured, and practical astrology report for a client based on:\n\nBirth chart details\n\nMonthly planetary transit dates\n\nThe report must focus on real-life decision guidance, especially for money, career, and timing.",
+        "charCount": 491
+      },
+      {
+        "heading": "INPUT DATA",
+        "content": "INPUT DATA",
+        "charCount": 10
+      },
+      {
+        "heading": "CLIENT DETAILS:",
+        "content": "CLIENT DETAILS:\n\nName: [Enter Name]\n\nLagna (Ascendant): [Enter]\n\nMoon Sign: [Enter]\n\nKey chart highlights (optional): [Enter if needed]\n\nMONTHLY TRANSITS:\n[List all transit dates like this]\n\nSun transit: [date + sign]\n\nMars transit: [date + sign]\n\nMercury transit: [date + sign]\n\nVenus transit: [date + sign]",
+        "charCount": 290
+      },
+      {
+        "heading": "INSTRUCTIONS",
+        "content": "INSTRUCTIONS\n\nDo NOT use heavy astrology terminology in explanation\n\nWrite directly addressing the client (use \"you\")\n\nKeep tone practical, confident, and advisory\n\nFocus on decision-making, timing, money, and mindset\n\nAvoid generic statements — make it feel personalized\n\nSegment the month clearly week-wise\n\nIntegrate transit impact into real-life situations",
+        "charCount": 346
+      },
+      {
+        "heading": "OUTPUT FORMAT",
+        "content": "OUTPUT FORMAT\n\nGenerate the report in the following structure:\n\nTITLE\n\"Monthly Astro Intelligence Report – [Month Year]\"",
+        "charCount": 116
+      },
+      {
+        "heading": "EXECUTIVE SUMMARY",
+        "content": "EXECUTIVE SUMMARY\n\nOverall theme of the month\n\nKey focus areas (money, career, mind, relationships)\n\nOverall score out of 10",
+        "charCount": 118
+      },
+      {
+        "heading": "WEEK-WISE ANALYSIS",
+        "content": "WEEK-WISE ANALYSIS\n\nDivide into:\n\nWeek 1\n\nWeek 2\n\nWeek 3\n\nWeek 4\n\nFor each week include:\n\nTheme\n\nWhat will happen\n\nWhat to do\n\nWhat to avoid",
+        "charCount": 120
+      },
+      {
+        "heading": "BUSINESS & FINANCE STRATEGY",
+        "content": "BUSINESS & FINANCE STRATEGY\n\nMoney flow pattern\n\nBest time to invest\n\nRisk periods\n\nPractical financial advice",
+        "charCount": 102
+      },
+      {
+        "heading": "MENTAL & EMOTIONAL PATTERN",
+        "content": "MENTAL & EMOTIONAL PATTERN\n\nMindset trends\n\nPsychological patterns\n\nDecision behavior",
+        "charCount": 79
+      },
+      {
+        "heading": "RELATIONSHIP INSIGHTS",
+        "content": "RELATIONSHIP INSIGHTS\n\nCommunication tone\n\nRisk of conflicts\n\nBest approach",
+        "charCount": 69
+      },
+      {
+        "heading": "RISK ZONES",
+        "content": "RISK ZONES\n\nClearly mention high-risk dates/periods",
+        "charCount": 49
+      },
+      {
+        "heading": "BEST PERIODS",
+        "content": "BEST PERIODS\n\nHighlight strongest days/weeks",
+        "charCount": 42
+      },
+      {
+        "heading": "ACTION PLAN",
+        "content": "ACTION PLAN\n\nClear DOs and DON’Ts",
+        "charCount": 31
+      },
+      {
+        "heading": "OPPORTUNITY SCORECARD",
+        "content": "OPPORTUNITY SCORECARD\n\nGive score out of 10 for:\n\nCareer\n\nFinance\n\nRelationships\n\nHealth",
+        "charCount": 78
+      },
+      {
+        "heading": "DATE-WISE LUCKY TIMING SYSTEM",
+        "content": "DATE-WISE LUCKY TIMING SYSTEM\n\nCreate a table for entire month:\n\nFor each date include:\n\nRating: ⭐ (good), ⚖️ (neutral), ⚠️ (avoid)\n\nShort practical guidance\n\nAlso include:\n\nBest days list\n\nSafe days list\n\nAvoid days list",
+        "charCount": 205
+      },
+      {
+        "heading": "FINAL STRATEGIC MESSAGE",
+        "content": "FINAL STRATEGIC MESSAGE\n\nEnd with a powerful, clear, practical one-line guidance for the month",
+        "charCount": 92
+      },
+      {
+        "heading": "OUTPUT QUALITY",
+        "content": "OUTPUT QUALITY\n\nMake it feel like a premium paid report\n\nClear formatting\n\nEasy to read\n\nHighly actionable\n\nNo fluff",
+        "charCount": 106
+      },
+      {
+        "heading": "IMPORTANT",
+        "content": "IMPORTANT\n\nThe report should feel like:\n👉 “A decision-making guide for the month”\nNOT just a prediction",
+        "charCount": 101
+      },
+      {
+        "heading": "END OF PROMPT",
+        "content": "END OF PROMPT",
+        "charCount": 13
+      }
+    ]
+  },
+  {
+    "id": "introductory_15m",
+    "title": "Introductory Consultation Life Report (15 Minutes)",
+    "category": "Quick Consultation",
+    "durationMinutes": 15,
+    "description": "Concise, professional natal overview covering core identity, current dasha phase, and immediate guidance.",
+    "rawLength": 1577,
+    "chunks": [
+      {
+        "heading": "Introduction",
+        "content": "ROLE - Act as a Scientific & Modern Vedic Astrologer (with knowledge in Life coaching),  Analytical Consultant, provide a brief, professional, and insightful birth chart analysis based on classical Vedic astrology principles.\n\nOBJECTIVE - To guide the native about his past, present and future\n\nCONTEXT - The analysis should be based on the birth chart data and should follow Vedic astrology traditions. The output will be used for professional astrology consultations, client reports, and personal understanding, life coaching, counselling.",
+        "charCount": 537
+      },
+      {
+        "heading": "NATIVE DETAILS",
+        "content": "NATIVE DETAILS\n\nName – mr Srinivasa murthy\n\nGender - male\n\nAge - 58\n\nFamily status - married\n\nCareer/profession – business, politics\n\nBusiness details – financing, movie production, realeastate…",
+        "charCount": 182
+      },
+      {
+        "heading": "INPUT DATA",
+        "content": "INPUT DATA\n\nPlease find the birth chart attached or the image of the birth chart for reference or birth chart given in plain text",
+        "charCount": 127
+      },
+      {
+        "heading": "QUESTIONS",
+        "content": "QUESTIONS\n\nWhat is the personality of the native?\n\nGive a Panchanga(the five parameters of astrology Vara, Nakshatra, Thithi, Yoga, Karana, Thithi) analysis of the native?\n\nWhat is the past, present & future of the natives health?\n\nWhat is the past, present & future of the natives finances?\n\nWhat is the past, present & future of the natives relationships?\n\nWhat is the past, present & future of the natives career?\n\nWhat is the past, present & future of the natives business?\n\nWhat are the curses, karmic debts(runa) and shaapa the native is born with?",
+        "charCount": 538
+      },
+      {
+        "heading": "INSTRUCTION",
+        "content": "INSTRUCTION\n\nDo not complicate the results with over analysis and additives. Just give plain simple bullet points that can be understood by a lane man.",
+        "charCount": 149
+      }
+    ]
+  }
+]

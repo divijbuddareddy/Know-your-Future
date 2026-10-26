@@ -1,0 +1,371 @@
+{
+  "conversations": [
+    {
+      "id": "default-conv-1",
+      "title": "Please analyze my birth chart, e...",
+      "createdAt": "2026-10-26T14:46:11.082Z",
+      "updatedAt": "2026-10-26T14:46:32.844Z",
+      "messages": [
+        {
+          "id": "welcome-msg-1",
+          "role": "assistant",
+          "content": "Hello! I can help you explore astrology, create a personalized report, or answer everyday questions. What would you like to talk about?",
+          "createdAt": "2026-10-26T14:46:11.082Z",
+          "intent": "GENERAL_ASSISTANT"
+        },
+        {
+          "id": "msg-1793025989768-wn7y7",
+          "role": "user",
+          "content": "Please analyze my birth chart, explain my ascendant (lagna), key planetary placements, and my current dasha phase.",
+          "createdAt": "2026-10-26T14:46:29.768Z"
+        },
+        {
+          "id": "msg-1793025992844-ugav1",
+          "role": "assistant",
+          "content": "### 🌟 Vedic Natal Chart Insights\n\nBased on your verified birth coordinates and planetary placements:\n\n- **Ascendant (Lagna):** Your rising sign indicates how you orient to the world and meet life's formative experiences. The ascendant lord bestows strong directional drive and executive clarity.\n- **Planetary Alignment:** The configuration of the Kendra (1st, 4th, 7th, 10th) and Trikona (1st, 5th, 9th) houses highlights notable resilience during periods of career transition.\n- **Current Dasha Phase:** Your active Vimshottari planetary dasha indicates a phase prioritizing strategic consolidating of personal assets and refining professional goals.\n\n*Note: Astrological perspectives provide psychological clarity and reflective guidance. Key decisions remain within your own conscious agency.*",
+          "createdAt": "2026-10-26T14:46:32.844Z",
+          "intent": "ASTROLOGY",
+          "sources": [
+            {
+              "docTitle": "Master Life Report — Canonical Transformation Consultation (120 Minutes)",
+              "heading": "COMPREHENSIVE VEDIC ASTROLOGY BIOGRAPHY WRITING PROMPT"
+            },
+            {
+              "docTitle": "Master Life Report — Canonical Transformation Consultation (120 Minutes)",
+              "heading": "STRUCTURE OF THE REPORT"
+            },
+            {
+              "docTitle": "Master Life Report — Canonical Transformation Consultation (120 Minutes)",
+              "heading": "RELATIONSHIPS ANALYSIS"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "birthProfile": {
+    "id": "sample-profile-1",
+    "fullName": "Seeker",
+    "birthDate": "2004-06-31",
+    "birthTime": "09:30",
+    "birthPlace": "Bengaluru, India",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "timezoneOffset": 5.5,
+    "timeConfidence": "exact",
+    "consentToSave": true,
+    "chartData": {
+      "calculationEngine": "Astronomy-Engine v2 + Lahiri Precision Ephemeris",
+      "ayanamsaName": "Lahiri (Chitrapaksha)",
+      "ayanamsaValueDeg": 23.9198,
+      "julianDate": 2453187.6666666665,
+      "utcDateTime": "2004-07-01T04:00:00.000Z",
+      "localDateTime": "2004-06-31 09:30",
+      "timeConfidence": "exact",
+      "lagna": {
+        "name": "Ascendant",
+        "sanskritName": "Lagna",
+        "tropicalLon": 327.8234888681105,
+        "siderealLon": 303.90366701053347,
+        "rashi": "Aquarius",
+        "rashiSanskrit": "Kumbha",
+        "rashiIndex": 10,
+        "degreeInSign": 3.903667010533468,
+        "formattedDegree": "3° 54' 13\"",
+        "nakshatra": "Dhanishta",
+        "nakshatraLord": "Mars",
+        "pada": 4,
+        "bhava": 1,
+        "isRetrograde": false
+      },
+      "planets": [
+        {
+          "name": "Sun",
+          "sanskritName": "Surya",
+          "tropicalLon": 99.65815593984318,
+          "siderealLon": 75.73833408226619,
+          "rashi": "Gemini",
+          "rashiSanskrit": "Mithuna",
+          "rashiIndex": 2,
+          "degreeInSign": 15.738334082266192,
+          "formattedDegree": "15° 44' 18\"",
+          "nakshatra": "Ardra",
+          "nakshatraLord": "Rahu",
+          "pada": 3,
+          "bhava": 5,
+          "isRetrograde": false
+        },
+        {
+          "name": "Moon",
+          "sanskritName": "Chandra",
+          "tropicalLon": 261.1072057759726,
+          "siderealLon": 237.1873839183956,
+          "rashi": "Scorpio",
+          "rashiSanskrit": "Vrishchika",
+          "rashiIndex": 7,
+          "degreeInSign": 27.187383918395597,
+          "formattedDegree": "27° 11' 15\"",
+          "nakshatra": "Jyeshtha",
+          "nakshatraLord": "Mercury",
+          "pada": 4,
+          "bhava": 10,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mars",
+          "sanskritName": "Mangala",
+          "tropicalLon": 124.59632514334031,
+          "siderealLon": 100.67650328576332,
+          "rashi": "Cancer",
+          "rashiSanskrit": "Karka",
+          "rashiIndex": 3,
+          "degreeInSign": 10.676503285763317,
+          "formattedDegree": "10° 40' 35\"",
+          "nakshatra": "Pushya",
+          "nakshatraLord": "Saturn",
+          "pada": 3,
+          "bhava": 6,
+          "isRetrograde": false
+        },
+        {
+          "name": "Mercury",
+          "sanskritName": "Budha",
+          "tropicalLon": 113.57912056313835,
+          "siderealLon": 89.65929870556135,
+          "rashi": "Gemini",
+          "rashiSanskrit": "Mithuna",
+          "rashiIndex": 2,
+          "degreeInSign": 29.659298705561355,
+          "formattedDegree": "29° 39' 33\"",
+          "nakshatra": "Punarvasu",
+          "nakshatraLord": "Jupiter",
+          "pada": 3,
+          "bhava": 5,
+          "isRetrograde": false
+        },
+        {
+          "name": "Jupiter",
+          "sanskritName": "Guru",
+          "tropicalLon": 163.38060013643158,
+          "siderealLon": 139.46077827885458,
+          "rashi": "Leo",
+          "rashiSanskrit": "Simha",
+          "rashiIndex": 4,
+          "degreeInSign": 19.460778278854576,
+          "formattedDegree": "19° 27' 39\"",
+          "nakshatra": "Purva Phalguni",
+          "nakshatraLord": "Venus",
+          "pada": 2,
+          "bhava": 7,
+          "isRetrograde": false
+        },
+        {
+          "name": "Venus",
+          "sanskritName": "Shukra",
+          "tropicalLon": 69.65386890860631,
+          "siderealLon": 45.734047051029314,
+          "rashi": "Taurus",
+          "rashiSanskrit": "Vrishabha",
+          "rashiIndex": 1,
+          "degreeInSign": 15.734047051029314,
+          "formattedDegree": "15° 44' 3\"",
+          "nakshatra": "Rohini",
+          "nakshatraLord": "Moon",
+          "pada": 2,
+          "bhava": 4,
+          "isRetrograde": false
+        },
+        {
+          "name": "Saturn",
+          "sanskritName": "Shani",
+          "tropicalLon": 105.8552687876944,
+          "siderealLon": 81.9354469301174,
+          "rashi": "Gemini",
+          "rashiSanskrit": "Mithuna",
+          "rashiIndex": 2,
+          "degreeInSign": 21.935446930117394,
+          "formattedDegree": "21° 56' 8\"",
+          "nakshatra": "Punarvasu",
+          "nakshatraLord": "Jupiter",
+          "pada": 1,
+          "bhava": 5,
+          "isRetrograde": false
+        },
+        {
+          "name": "Rahu (North Node)",
+          "sanskritName": "Rahu",
+          "tropicalLon": 38.05913980145889,
+          "siderealLon": 14.139317943881892,
+          "rashi": "Aries",
+          "rashiSanskrit": "Mesha",
+          "rashiIndex": 0,
+          "degreeInSign": 14.139317943881892,
+          "formattedDegree": "14° 8' 22\"",
+          "nakshatra": "Bharani",
+          "nakshatraLord": "Venus",
+          "pada": 1,
+          "bhava": 3,
+          "isRetrograde": true
+        },
+        {
+          "name": "Ketu (South Node)",
+          "sanskritName": "Ketu",
+          "tropicalLon": 218.05913980145888,
+          "siderealLon": 194.1393179438819,
+          "rashi": "Libra",
+          "rashiSanskrit": "Tula",
+          "rashiIndex": 6,
+          "degreeInSign": 14.139317943881906,
+          "formattedDegree": "14° 8' 22\"",
+          "nakshatra": "Swati",
+          "nakshatraLord": "Rahu",
+          "pada": 3,
+          "bhava": 9,
+          "isRetrograde": true
+        }
+      ],
+      "panchanga": {
+        "tithi": {
+          "number": 14,
+          "name": "Chaturdashi (Shukla Paksha)",
+          "paksha": "Shukla"
+        },
+        "vara": "Thursday (Guruvara)",
+        "nakshatra": "Jyeshtha",
+        "yoga": "Shukla",
+        "karana": "Gara"
+      },
+      "currentDasha": {
+        "mahadasha": "Venus",
+        "antardasha": "Jupiter",
+        "remainingYearsInMahadasha": 8.27
+      },
+      "bhavas": [
+        {
+          "bhavaNumber": 1,
+          "title": "Tanu Bhava (1st House)",
+          "themes": "Self, Physical Body, Vitality, Complexion, General Destiny",
+          "rashi": "Aquarius",
+          "rashiSanskrit": "Kumbha",
+          "planetsInBhava": []
+        },
+        {
+          "bhavaNumber": 2,
+          "title": "Dhana Bhava (2nd House)",
+          "themes": "Wealth, Speech, Family, Food, Early Education, Assets",
+          "rashi": "Pisces",
+          "rashiSanskrit": "Meena",
+          "planetsInBhava": []
+        },
+        {
+          "bhavaNumber": 3,
+          "title": "Sahaja Bhava (3rd House)",
+          "themes": "Siblings, Courage, Communication, Short Travel, Initiative",
+          "rashi": "Aries",
+          "rashiSanskrit": "Mesha",
+          "planetsInBhava": [
+            "Rahu (14° 8' 22\" [R])"
+          ]
+        },
+        {
+          "bhavaNumber": 4,
+          "title": "Sukha Bhava (4th House)",
+          "themes": "Mother, Home, Vehicles, Inner Peace, Property, Land",
+          "rashi": "Taurus",
+          "rashiSanskrit": "Vrishabha",
+          "planetsInBhava": [
+            "Shukra (15° 44' 3\")"
+          ]
+        },
+        {
+          "bhavaNumber": 5,
+          "title": "Putra Bhava (5th House)",
+          "themes": "Children, Intelligence, Purva Punya (Past Karma), Creativity",
+          "rashi": "Gemini",
+          "rashiSanskrit": "Mithuna",
+          "planetsInBhava": [
+            "Surya (15° 44' 18\")",
+            "Budha (29° 39' 33\")",
+            "Shani (21° 56' 8\")"
+          ]
+        },
+        {
+          "bhavaNumber": 6,
+          "title": "Ari Bhava (6th House)",
+          "themes": "Health/Diseases, Enemies, Debts, Service, Daily Work",
+          "rashi": "Cancer",
+          "rashiSanskrit": "Karka",
+          "planetsInBhava": [
+            "Mangala (10° 40' 35\")"
+          ]
+        },
+        {
+          "bhavaNumber": 7,
+          "title": "Yuvati Bhava (7th House)",
+          "themes": "Spouse, Marriage, Business Partnerships, Public Interactions",
+          "rashi": "Leo",
+          "rashiSanskrit": "Simha",
+          "planetsInBhava": [
+            "Guru (19° 27' 39\")"
+          ]
+        },
+        {
+          "bhavaNumber": 8,
+          "title": "Randhra Bhava (8th House)",
+          "themes": "Longevity, Transformation, Hidden Knowledge, Obstacles, Inheritance",
+          "rashi": "Virgo",
+          "rashiSanskrit": "Kanya",
+          "planetsInBhava": []
+        },
+        {
+          "bhavaNumber": 9,
+          "title": "Dharma Bhava (9th House)",
+          "themes": "Higher Learning, Father, Luck (Bhagya), Morals, Long Journeys",
+          "rashi": "Libra",
+          "rashiSanskrit": "Tula",
+          "planetsInBhava": [
+            "Ketu (14° 8' 22\" [R])"
+          ]
+        },
+        {
+          "bhavaNumber": 10,
+          "title": "Karma Bhava (10th House)",
+          "themes": "Career, Profession, Status, Public Image, Leadership, Father",
+          "rashi": "Scorpio",
+          "rashiSanskrit": "Vrishchika",
+          "planetsInBhava": [
+            "Chandra (27° 11' 15\")"
+          ]
+        },
+        {
+          "bhavaNumber": 11,
+          "title": "Labha Bhava (11th House)",
+          "themes": "Gains, Aspirations, Elder Siblings, Professional Network",
+          "rashi": "Sagittarius",
+          "rashiSanskrit": "Dhanu",
+          "planetsInBhava": []
+        },
+        {
+          "bhavaNumber": 12,
+          "title": "Vyaya Bhava (12th House)",
+          "themes": "Expenses, Foreign Travel, Isolation, Subconscious, Moksha",
+          "rashi": "Capricorn",
+          "rashiSanskrit": "Makara",
+          "planetsInBhava": []
+        }
+      ]
+    },
+    "updatedAt": "2026-10-26T15:25:24.531Z"
+  },
+  "reports": [
+    {
+      "id": "rep-1793026053230-jn3b5",
+      "conversationId": "default-conv-1",
+      "templateType": "transformation_120m",
+      "title": "Master Life Report (Canonical Transformation Consultation 120m) — Alex Sharma",
+      "nativeName": "Alex Sharma",
+      "contentMarkdown": "# Master Life Report (Canonical Transformation Consultation 120m)\n\n**Native:** Alex Sharma | **Date of Birth:** 1992-08-18 | **Time:** 10:45 (exact)\n**Birthplace:** New Delhi, India | **Generated:** October 26, 2026\n**Calculation Method:** Astronomy-Engine v2 + Lahiri Precision Ephemeris (Ayanamsa: Lahiri (Chitrapaksha) 23.754°)\n\n---\n\n## 1. Physical Appearance & Basic Nature\nThe native possesses an ascendant in **Aries** at 4° 57' 46\" in **Ashwini** Nakshatra (Pada 2).\n- **Physical Demeanor:** Reflects poise, dignified bearing, and an alert communicative presence. The countenance conveys quiet confidence and intellectual curiosity.\n- **Temperament:** A balanced synthesis of strategic vision and pragmatic execution. You naturally attract responsibility due to the structural influences of Ketu.\n\n## 2. Panchanga-Based Personality Insights\n- **Vara (Day):** Tuesday (Mangalavara) — grants persistence, endurance, and fortitude in leadership.\n- **Tithi:** Panchami (Krishna Paksha) — highlights an innate drive for moral alignment and clarity of purpose.\n- **Nakshatra:** Revati (Moon) — bestows acute emotional sensitivity paired with strong analytical capabilities.\n- **Yoga:** Shula — facilitates harmonious social relationships and long-term goodwill.\n- **Karana:** Kaulava — supports methodical follow-through on complex assignments.\n\n## 3. Rashi Chart & 12 Bhavas Comprehensive Analysis\n### Tanu Bhava (1st House) (Aries)\n- **Core Life Focus:** Self, Physical Body, Vitality, Complexion, General Destiny\n- **Resident Planetary Forces:** No direct planetary occupancy; ruled by Aries lord.\n\n### Dhana Bhava (2nd House) (Taurus)\n- **Core Life Focus:** Wealth, Speech, Family, Food, Early Education, Assets\n- **Resident Planetary Forces:** Mangala (21° 3' 45\")\n\n### Sahaja Bhava (3rd House) (Gemini)\n- **Core Life Focus:** Siblings, Courage, Communication, Short Travel, Initiative\n- **Resident Planetary Forces:** Ketu (3° 51' 25\" [R])\n\n### Sukha Bhava (4th House) (Cancer)\n- **Core Life Focus:** Mother, Home, Vehicles, Inner Peace, Property, Land\n- **Resident Planetary Forces:** Budha (13° 46' 36\")\n\n### Putra Bhava (5th House) (Leo)\n- **Core Life Focus:** Children, Intelligence, Purva Punya (Past Karma), Creativity\n- **Resident Planetary Forces:** Surya (1° 45' 21\"), Guru (24° 50' 10\"), Shukra (19° 42' 44\")\n\n### Ari Bhava (6th House) (Virgo)\n- **Core Life Focus:** Health/Diseases, Enemies, Debts, Service, Daily Work\n- **Resident Planetary Forces:** No direct planetary occupancy; ruled by Virgo lord.\n\n### Yuvati Bhava (7th House) (Libra)\n- **Core Life Focus:** Spouse, Marriage, Business Partnerships, Public Interactions\n- **Resident Planetary Forces:** No direct planetary occupancy; ruled by Libra lord.\n\n### Randhra Bhava (8th House) (Scorpio)\n- **Core Life Focus:** Longevity, Transformation, Hidden Knowledge, Obstacles, Inheritance\n- **Resident Planetary Forces:** No direct planetary occupancy; ruled by Scorpio lord.\n\n### Dharma Bhava (9th House) (Sagittarius)\n- **Core Life Focus:** Higher Learning, Father, Luck (Bhagya), Morals, Long Journeys\n- **Resident Planetary Forces:** Rahu (3° 51' 25\" [R])\n\n### Karma Bhava (10th House) (Capricorn)\n- **Core Life Focus:** Career, Profession, Status, Public Image, Leadership, Father\n- **Resident Planetary Forces:** Shani (20° 34' 55\" [R])\n\n### Labha Bhava (11th House) (Aquarius)\n- **Core Life Focus:** Gains, Aspirations, Elder Siblings, Professional Network\n- **Resident Planetary Forces:** No direct planetary occupancy; ruled by Aquarius lord.\n\n### Vyaya Bhava (12th House) (Pisces)\n- **Core Life Focus:** Expenses, Foreign Travel, Isolation, Subconscious, Moksha\n- **Resident Planetary Forces:** Chandra (24° 28' 18\")\n\n\n## 4. Career, Profession & Wealth Milestones\n- **Primary Vocational Alignment:** Strategic consulting, managerial oversight, financial architecture, and technical innovation.\n- **Key Wealth Windows:** Benefic planetary periods highlight capital appreciation during dasha sub-periods ruled by Venus and Jupiter.\n- **Foreign Connections:** Strong indications for international collaboration or remote global engagements.\n\n## 5. Marriage & Relationship Architecture\n- **7th Bhava Dynamic:** Governed by Libra. Favors relationships established on shared values, intellectual parity, and transparent expectations.\n- **Marital Prosperity:** Harmonious when communication channels remain candid and regular periods of independent reflection are preserved.\n\n## 6. Health & Vitality Guardrails\n- **Constitutional Balance:** Maintain awareness of metabolic rhythms and digestive fire.\n- **Preventive Lifestyle:** Regular hydration, seasonal detoxifying nutrition, and moderate aerobic movement are highly supportive.\n\n## 7. Current Dasha Roadmap (Vimshottari)\n- **Active Mahadasha:** **Sun** (~5.86 years remaining)\n- **Active Antardasha:** **Sun**\n- **Actionable Advice:** This phase prioritizes institutional grounding, skills enhancement, and eliminating unnecessary liabilities.\n\n## 8. Do's and Don'ts of Life\n- **DO:** Trust your analytical instincts; document long-term strategic plans; honor daily restorative routines.\n- **DON'T:** Let haste compromise critical contract reviews; avoid speculative financial gambles during Rahu transit overlaps.\n\n---\n*Disclaimer: This report is an astrological and psychological interpretation generated for personal reflection and guidance. It is not intended as financial, legal, or medical advice.*",
+      "createdAt": "2026-10-26T14:47:33.230Z"
+    }
+  ]
+}

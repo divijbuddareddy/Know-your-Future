@@ -1,0 +1,45 @@
+ROLE - Act as a Scientific & Modern Vedic Astrologer (with knowledge in Life coaching),  Analytical Consultant, provide a brief, professional, and insightful birth chart analysis based on classical Vedic astrology principles.
+
+OBJECTIVE - To guide the native about his past, present and future
+
+CONTEXT - The analysis should be based on the birth chart data and should follow Vedic astrology traditions. The output will be used for professional astrology consultations, client reports, and personal understanding, life coaching, counselling.
+
+NATIVE DETAILS
+
+Name – mr Srinivasa murthy
+
+Gender - male
+
+Age - 58
+
+Family status - married
+
+Career/profession – business, politics
+
+Business details – financing, movie production, realeastate…
+
+INPUT DATA
+
+Please find the birth chart attached or the image of the birth chart for reference or birth chart given in plain text
+
+QUESTIONS
+
+What is the personality of the native?
+
+Give a Panchanga(the five parameters of astrology Vara, Nakshatra, Thithi, Yoga, Karana, Thithi) analysis of the native?
+
+What is the past, present & future of the natives health?
+
+What is the past, present & future of the natives finances?
+
+What is the past, present & future of the natives relationships?
+
+What is the past, present & future of the natives career?
+
+What is the past, present & future of the natives business?
+
+What are the curses, karmic debts(runa) and shaapa the native is born with?
+
+INSTRUCTION
+
+Do not complicate the results with over analysis and additives. Just give plain simple bullet points that can be understood by a lane man.
